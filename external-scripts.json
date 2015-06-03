@@ -7,5 +7,6 @@
   "hubot-maps",
   "hubot-rules",
   "hubot-shipit",
+  "hubot-azure-scripts/brain/azure-blob-brain",
   "hubot-youtube"
 ]
